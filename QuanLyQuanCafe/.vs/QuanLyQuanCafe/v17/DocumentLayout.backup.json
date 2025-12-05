@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|solutionrelative:ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0D4A67C-D8E7-472F-AE89-C5F7200BD17E}|QuanLyQuanCafe.csproj|d:\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\quanlyquancafe\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "DTO\\Bill.cs",
+              "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DTO\\Bill.cs",
+              "RelativeToolTip": "DTO\\Bill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:49:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "fTableManager.cs [Design]",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fTableManager.cs",
               "RelativeDocumentMoniker": "fTableManager.cs",
@@ -90,33 +107,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "fTableManager.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fTableManager.cs",
               "RelativeDocumentMoniker": "fTableManager.cs",
               "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fTableManager.cs",
               "RelativeToolTip": "fTableManager.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAIwJQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAASwJQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T10:45:24.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataProvider.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
-              "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\DataProvider.cs",
-              "RelativeToolTip": "DAO\\DataProvider.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAMwFAAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\DataProvider.cs*",
+              "RelativeToolTip": "DAO\\DataProvider.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T07:02:34.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "DAO\\CategoryDAO.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Table.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DTO\\Table.cs",
               "RelativeDocumentMoniker": "DTO\\Table.cs",
@@ -140,20 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BillDAO.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\BillDAO.cs",
               "RelativeDocumentMoniker": "DAO\\BillDAO.cs",
-              "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\BillDAO.cs",
-              "RelativeToolTip": "DAO\\BillDAO.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\BillDAO.cs*",
+              "RelativeToolTip": "DAO\\BillDAO.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T10:15:40.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MenuDAO.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\MenuDAO.cs",
               "RelativeDocumentMoniker": "DAO\\MenuDAO.cs",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DTO\\Category.cs",
               "RelativeDocumentMoniker": "DTO\\Category.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "BillInfoDAO.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\DAO\\BillInfoDAO.cs",
               "RelativeDocumentMoniker": "DAO\\BillInfoDAO.cs",
@@ -185,11 +202,12 @@
               "RelativeToolTip": "DAO\\BillInfoDAO.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAiwCUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T02:32:55.047Z"
+              "WhenOpened": "2025-12-03T02:32:55.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "fTableManager.Designer.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fTableManager.Designer.cs",
               "RelativeDocumentMoniker": "fTableManager.Designer.cs",
@@ -197,12 +215,11 @@
               "RelativeToolTip": "fTableManager.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T01:51:15.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T01:51:15.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "fLogin.cs [Design]",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fLogin.cs",
               "RelativeDocumentMoniker": "fLogin.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "fLogin.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fLogin.cs",
               "RelativeDocumentMoniker": "fLogin.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "fAccountProfile.cs [Design]",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fAccountProfile.cs",
               "RelativeDocumentMoniker": "fAccountProfile.cs",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "fAdmin.cs [Design]",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\fAdmin.cs",
               "RelativeDocumentMoniker": "fAdmin.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u00E0 ph\u00EA\\QuanLyQuanCafe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

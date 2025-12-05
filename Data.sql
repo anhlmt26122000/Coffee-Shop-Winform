@@ -205,13 +205,13 @@ INSERT dbo.BillInfo
 values (3,5,2)
 go
 
-Create proc usp_insertBill
+create proc usp_insertBill
 @idTable int
 as
 begin
 	Insert dbo.Bill
-	(DateCheckin,DateCheckout,idTable,status)
-	values (GETDATE(),null,@idTable,0)
+	(DateCheckin,DateCheckout,idTable,status, discount)
+	values (GETDATE(),null,@idTable,0,0)
 end
 go
 
@@ -242,10 +242,10 @@ END
 go
 
 create proc USP_Checkout
-@idBill int 
+@idBill int , @discount int
 as
 begin 
-	Update dbo.Bill set [status] = 1, DateCheckout= GETDATE() where id= @idBill
+	Update dbo.Bill set [status] = 1, DateCheckout= GETDATE() ,discount = @discount where id= @idBill
 end
 go
 
@@ -281,9 +281,15 @@ begin
 end
 go
 
+alter table dbo.bill
+add discount int 
+
+update dbo.Bill set discount = 0 
+
 select * from dbo.TableFood
-select * from bill where status=0
+select * from bill 
 select * from dbo.BillInfo 
 
 Delete from BillInfo
 Delete from Bill
+

@@ -65,3 +65,4 @@ D:\Phần mềm quản lý cà phê\QuanLyQuanCafe\bin\Debug\net8.0-windows\runt
 D:\Phần mềm quản lý cà phê\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\Phần mềm quản lý cà phê\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
 D:\Phần mềm quản lý cà phê\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+D:\Phần mềm quản lý cà phê\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.sourcelink.json

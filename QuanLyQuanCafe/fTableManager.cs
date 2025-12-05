@@ -139,12 +139,14 @@ namespace QuanLyQuanCafe
             Table table = lsvBill.Tag as Table;
             // Get Bill ID
             int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(table.ID);
+            //get discount
+            int discount = (int)nmDiscount.Value;
             if (idBill != -1)
             {
                 if (MessageBox.Show("Bạn có chắc thanh toán hóa đơn cho " + table.Name + " không?", "Thông báo", MessageBoxButtons.OKCancel) == DialogResult.OK)
                 {
                     // Checkout
-                    BillDAO.Instance.CheckOut(idBill);
+                    BillDAO.Instance.CheckOut(idBill, discount);
                     ShowBill(table.ID);
                     LoadTable();
                 }

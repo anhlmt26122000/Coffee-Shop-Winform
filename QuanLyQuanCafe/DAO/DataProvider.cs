@@ -40,7 +40,8 @@ namespace QuanLyQuanCafe.DAO
                     {
                         if (item.Contains('@'))
                         {
-                            command.Parameters.AddWithValue(item, parameter[i]);
+                            string paramName = item.Trim().Trim(',');
+                            command.Parameters.AddWithValue(paramName, parameter[i]);
                             i++;
                         }
                     }
@@ -69,7 +70,8 @@ namespace QuanLyQuanCafe.DAO
                     {
                         if (item.Contains('@'))
                         {
-                            command.Parameters.AddWithValue(item, parameter[i]);
+                            string paramName = item.Trim().Trim(',');
+                            command.Parameters.AddWithValue(paramName, parameter[i]);
                             i++;
                         }
                     }

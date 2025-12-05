@@ -37,9 +37,9 @@ namespace QuanLyQuanCafe.DAO
             DataProvider.Instance.ExecuteNonQuery("EXEC USP_InsertBill @idTable", new object[] { idTable });
         }
 
-        public void CheckOut(int idBill)
+        public void CheckOut(int idBill, int discount)
         {
-            DataProvider.Instance.ExecuteNonQuery("EXEC USP_CheckOut @idBill", new object[] { idBill });
+            DataProvider.Instance.ExecuteNonQuery("EXEC USP_CheckOut @idBill, @discount", new object[] { idBill, discount });
         }
     }
 }
